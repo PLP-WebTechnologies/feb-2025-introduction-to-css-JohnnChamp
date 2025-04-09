@@ -1,0 +1,45 @@
+/* style.css */
+
+/* 1. Styling with an ID selector */
+#main-heading {
+  color: #2E3B4E; /* Dark blue */
+  font-family: 'Arial', sans-serif;
+  font-size: 36px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* 2. Styling with a class selector */
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #F0F4F8; /* Light grey */
+  border: 2px solid #B0BEC5; /* Soft grey border */
+}
+
+/* 3. Styling with an element selector */
+p {
+  color: #555;
+  font-family: 'Georgia', serif;
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+/* 4. Styling an image */
+img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px; /* Rounded corners */
+  margin-top: 20px;
+}
+
+/* 5. Adding margin, padding, and borders */
+section {
+  padding: 30px;
+  margin-top: 20px;
+  border: 3px solid #8C9EFF; /* Blue border */
+  border-radius: 10px;
+  background-color: #FFFFFF;
+}
